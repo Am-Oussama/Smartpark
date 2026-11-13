@@ -503,10 +503,10 @@ bun run test:watch    # Watch mode
 
 ## 👤 Author
 
-**Oussema Amri** 
+**Oussama Amri** 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Am--Oussema-181717?style=flat-square&logo=github)](https://github.com/Am-Oussema)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oussema%20Amri-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/oussama-amri-94b34326a)
+[![GitHub](https://img.shields.io/badge/GitHub-Am--Oussama-181717?style=flat-square&logo=github)](https://github.com/Am-Oussama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oussama%20Amri-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/oussama-amri-94b34326a)
 
 > *SmartPark is an IoT project demonstrating end-to-end system design — from embedded hardware (Arduino Uno + HC-SR04 sensors + ESP8266 WiFi) through a cloud backend (Supabase / PostgreSQL + Realtime) to a modern full-stack web application (React + TypeScript + Vite) — covering real-time spot surveillance, a complete reservation lifecycle, and a business analytics dashboard.*
 
